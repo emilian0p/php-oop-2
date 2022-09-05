@@ -47,3 +47,5 @@ require_once 'classes/Cart.php';
         }
         
     }
+
+?>
